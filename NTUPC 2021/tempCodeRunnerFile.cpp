@@ -1,0 +1,1 @@
+s[i] = toupper(s[i]);
